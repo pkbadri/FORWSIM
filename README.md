@@ -17,7 +17,7 @@ Download the files in the 3 links above. forwsim.c is a program that can efficie
 
 -pop (Total number of chromsomes in the diploid population. Should be a even number.)
 
--len (Length of the DNA sequence. Choose larger than del*u*pop)
+-len (Length of the DNA sequence. Choose larger than del x u x pop)
 
 -r (Per-generation per-sequence rate of recombination)
 

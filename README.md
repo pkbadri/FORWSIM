@@ -3,11 +3,11 @@ The program given below is based on the algorithm described in Padhukasahasram e
 
 
 
-http://www.sourceforge.net/projects/forwsim/files/forwsim.c
+https://github.com/pkbadri/FORWSIM/blob/main/forwsim.c
 
-http://www.sourceforge.net/projects/forwsim/files/mtrand.h
+https://github.com/pkbadri/FORWSIM/blob/main/mtrand.h
 
-http://www.sourceforge.net/projects/forwsim/files/mtrand.cpp
+https://github.com/pkbadri/FORWSIM/blob/main/mtrand.cpp
 
 
 

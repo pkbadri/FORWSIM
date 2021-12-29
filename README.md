@@ -1,13 +1,8 @@
-# FORWSIM
-
-
-
-
+# Forward Wright-Fisher Simulator
 The program given below is based on the algorithm described in Padhukasahasram et al. 2008.
 
 
 
-Forward Wright-Fisher Simulator
 http://www.sourceforge.net/projects/forwsim/files/forwsim.c
 
 http://www.sourceforge.net/projects/forwsim/files/mtrand.h
